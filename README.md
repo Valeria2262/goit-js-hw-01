@@ -3,3 +3,5 @@
 makeTransaction -совершить транзакцию
 
 getShippingMessage - получить сообщение о доставке
+
+getElementWidth -получить ширину элемента
