@@ -15,3 +15,11 @@ console.log(getElementWidth("60px", "12px", "8.5px"));
 console.log(getElementWidth("200px", "0px", "0px"));
 
 console.log(getElementWidth("200px", "30px", "6.5"));
+
+
+
+
+
+
+
+
